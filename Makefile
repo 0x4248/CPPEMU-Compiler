@@ -2,7 +2,7 @@
 
 CC = g++
 CFLAGS = -g -Wall -std=c++11
-INPUT = main.cpp
+INPUT = src/main.cpp
 OUTPUT = compiler
 
 all: compile
