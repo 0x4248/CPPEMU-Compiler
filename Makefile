@@ -2,14 +2,13 @@
 
 CC = g++
 CFLAGS = -g -Wall -std=c++11
+INPUT = main.cpp
+OUTPUT = compiler
 
-all: main
+all: compile
 
-main: main.o
-	$(CC) $(CFLAGS) -o main main.o
-
-main.o: main.cpp
-	$(CC) $(CFLAGS) -c main.cpp
+compile:
+	$(CC) $(CFLAGS) $(INPUT) -o $(OUTPUT)
 
 clean:
-	rm -f *.o main
+	rm -f $(OUTPUT)
