@@ -1,5 +1,6 @@
-// CPPEMU compiler 
-// Github: https://www.github.com/awesomelewis2007/CPPEMU-Compiler
+/* CPPEMU compiler 
+ * Github: https://www.github.com/awesomelewis2007/CPPEMU-Compiler
+*/
 
 #include <iostream>
 #include <fstream>
