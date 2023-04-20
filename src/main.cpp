@@ -1,6 +1,7 @@
 /* CPPEMU compiler 
  * A compiler for CPPEMU
  * Github: https://www.github.com/awesomelewis2007/CPPEMU-Compiler
+ * License: GPL-3.0
  * By: Lewis Evans
 */
 
