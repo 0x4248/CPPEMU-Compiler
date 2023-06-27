@@ -1,5 +1,5 @@
 # CPPEMU-Compiler
-This is a compiler for CPPEMU. Please see the [CPPEMU repository](https://github.com/awesomelewis2007/CPPEMU) for more information about the emulator.
+This is a compiler for CPPEMU. Please see the [CPPEMU repository](https://github.com/lewisevans2007/CPPEMU) for more information about the emulator.
 
 ## Instructions
 There are many instructions that the emulator can execute. The instructions are as follows:
