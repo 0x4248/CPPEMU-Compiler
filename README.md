@@ -80,6 +80,6 @@ The program is compiled to the following hex:
 1A010002014A01AA
 ```
 
-## License
+## Licence
 
 This project is licensed under the GPL-3.0 License - see the [LICENCE](LICENCE) file for details
