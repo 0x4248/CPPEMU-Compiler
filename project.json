@@ -3,9 +3,9 @@
     "description": "This is a compiler for CPPEMU.",
     "version": "",
     "main_file": "src/main.cpp",
-    "author": "Lewis Evans",
+    "author": "0x4248",
     "license": "GNU General Public License v3.0",
-    "url": "https://www.github.com/lewisevans2007/CPPEMU-Compiler",
+    "url": "https://www.github.com/0x4248/CPPEMU-Compiler",
     "email": "none",
     "languages": [
         "c++"
